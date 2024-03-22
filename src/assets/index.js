@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import logo from "./logo.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -26,9 +26,23 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
+import oppo from "./company/oppo.png";
+import pap from "./company/pap.png";
+import fitch from "./company/fitch.png";
+import elc from "./company/elc.png";
+
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+
+import cherry from "./projects/cherry.png";
+import crash from "./projects/crash.png";
+import ebay from "./projects/ebay.png";
+import lc3 from "./projects/lc3.png";
+import linux from "./projects/linux.png";
+import riscv from "./projects/riscv.png";
+import trading from "./projects/trading.png";
+import upmix from "./projects/upmix.png";
 
 export {
   logo,
@@ -56,7 +70,12 @@ export {
   shopify,
   starbucks,
   tesla,
+  oppo,
+  pap,
+  fitch,
+  elc,
   carrent,
   jobit,
   tripguide,
+  cherry, crash, ebay, lc3, linux, riscv, trading, upmix,
 };
