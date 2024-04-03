@@ -255,7 +255,7 @@ const projects = [
   },
   {
     name: "Linux Kernel",
-    description: "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+    description: "Supported memory paging, i8259 PIC interrupt handling, exception handling, keyboard input buffer, in memory read-only filesystem, round-robin scheduling based on Programmable Interrupt Timer with multiple tele-terminals",
     tags: [
       { name: "linux", color: "blue-text-gradient" },
       { name: "systems-engineering", color: "green-text-gradient" },
